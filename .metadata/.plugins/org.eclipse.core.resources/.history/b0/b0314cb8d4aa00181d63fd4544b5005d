@@ -1,0 +1,5 @@
+package com.primawebapp.controller;
+
+public class WelcomeControllerClass {
+
+}
